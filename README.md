@@ -1,6 +1,12 @@
 # GENENT AI
 
-Structured AI translation engine that converts a single user idea into platform-native content for Instagram, LinkedIn, and Twitter/X.
+## AWS GenAI Integration
+
+GENENT AI is designed as a serverless architecture on AWS.
+
+The system will invoke Anthropic Claude 3 Haiku via Amazon Bedrock to generate structured platform-native content. The backend will run on AWS Lambda behind Amazon API Gateway, with optional draft persistence in Amazon DynamoDB.
+
+This architecture ensures scalability, cost-efficiency, and secure AI integration.Structured AI translation engine that converts a single user idea into platform-native content for Instagram, LinkedIn, and Twitter/X.
 
 ## 🚀 Overview
 

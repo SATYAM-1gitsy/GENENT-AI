@@ -1,0 +1,6 @@
+{
+  "name": "genent-ai",
+  "version": "0.1.0",
+  "description": "Structured AI translation engine using Amazon Bedrock",
+  "private": true
+}
